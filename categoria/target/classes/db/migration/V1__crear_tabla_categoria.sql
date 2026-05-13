@@ -1,0 +1,4 @@
+CREATE TABLE categoria(
+    id BIGINT PRIMARY KEY AUTO_INCREMENT,
+    nombre VARCHAR(100)
+);
